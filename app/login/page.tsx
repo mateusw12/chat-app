@@ -40,11 +40,11 @@ export default function LoginPage() {
       <span className="text-center text-xs p-4 text-muted-foreground">
         desenvolvido por{' '}
         <a
-          href="https://giovanaraphaelli.tech/"
+          href="https://mateus-walz.vercel.app/"
           target="_blank"
           className="hover:text-primary transition-colors font-medium"
         >
-          @giovanaraphaelli
+          @mateuswalz
         </a>
       </span>
     </div>

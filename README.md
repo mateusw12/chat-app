@@ -2,10 +2,6 @@
 
 Aplicação de chat em tempo real desenvolvida com Next.js e Supabase Realtime.
 
-![Demonstração do projeto](./public/chat.gif)
-
-<h4 align="center"><a target="_blank" href="https://chat-app.giovanaraphaelli.tech">Clique para visitar o projeto</a></h4>
-
 ## ✨ Funcionalidades
 
 - **Mensagens em tempo real**: Envio e recebimento instantâneos de mensagens.
